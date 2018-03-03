@@ -1,0 +1,5 @@
+function opened() {
+  print('I opend the IDE');
+  }
+  
+  print();
