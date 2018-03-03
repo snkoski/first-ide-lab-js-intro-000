@@ -1,5 +1,1 @@
-function opened() {
-  print('I opend the IDE');
-  }
-  
-  print();
+I opened the IDE
